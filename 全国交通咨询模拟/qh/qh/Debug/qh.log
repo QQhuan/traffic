@@ -1,0 +1,11 @@
+﻿  qh_traffic.cpp
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(658): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(896): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(1058): warning C4101: “mm”: 未引用的局部变量
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(1058): warning C4101: “hh”: 未引用的局部变量
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(1058): warning C4101: “dd”: 未引用的局部变量
+c:\users\88\desktop\全国交通咨询模拟\qh\qh\qh_traffic.cpp(195): warning C4715: “EnQueue_LQ”: 不是所有的控件路径都返回值
+  qh.vcxproj -> C:\Users\88\Desktop\全国交通咨询模拟\qh\Debug\qh.exe
+  qh.vcxproj -> C:\Users\88\Desktop\全国交通咨询模拟\qh\Debug\qh.pdb (Full PDB)
